@@ -4,4 +4,5 @@
 __author__ = "RajZhao"
 
 DEBUG = True
+SQLALCHEMY_DATABASE_URI = "mysql+cymysql://root:mysql@localhost:3306/fisher"
 
